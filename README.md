@@ -1,1 +1,1 @@
-# Text-Generation-with-Tensorflow-NLP-RNN
+#A Step-by-Step Tutorial: Learn how to build a text generator from scratch!
